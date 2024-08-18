@@ -1,9 +1,11 @@
 .header {
     height: 34vw;
     margin: 30px auto;
-    background: url('/header_img.png') no-repeat;
+    background: url('/he1.jpg') no-repeat;
+    /* background: #747474; */
     background-size: contain;
     position: relative;
+    border-radius: 30px;
 }
 
 .header-contents {
@@ -27,6 +29,7 @@
 .header-contents p {
     color: white;
     font-size: 1vw;
+    font-weight: 500;
 }
 
 .header-contents button {
